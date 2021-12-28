@@ -29,4 +29,4 @@ Python, Mysql, Tableau, Machine Learning...
 
 ## My Dashboard
 
-![](https://github.com/vinay-git2412/Covid-19-dashboard/blob/main/Dashboard.png)
+![](https://github.com/vinay-git2412/superstore-dashboard/blob/main/store_dashboard.png)
