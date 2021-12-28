@@ -27,3 +27,6 @@ Python, Mysql, Tableau, Machine Learning...
 ## Tool Used
 ![](https://www.journalism.co.uk/assets/130/Tableau_logo_crop.jpg_resized_460_.jpeg)
 
+## My Dashboard
+
+![](https://github.com/vinay-git2412/Covid-19-dashboard/blob/main/Dashboard.png)
